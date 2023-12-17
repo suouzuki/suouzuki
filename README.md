@@ -63,7 +63,7 @@
   
 ![](https://github-profile-trophy.vercel.app/?username=suouzuki&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=suouzuki&icon=7&color=11)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=suouzuki&style=for-the-badge&color=C793EB&base=102)
 
 <!--
 **nino2221/nino2221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
