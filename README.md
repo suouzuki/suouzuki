@@ -17,10 +17,11 @@
 <div align="center">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C793EB&center=true&vCenter=true&width=435&lines=Tech Stack" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C793EB&center=true&vCenter=true&width=435&lines=My+Informations." alt="Typing SVG" />
     </a>
   </div>
-<div align="center">
+  I'm a dedicated programmer with a strong focus on Node.js. My expertise lies in backend development, specializing in crafting bots tailored for the Discord platform. I thrive on the intricacies of coding, leveraging Node.js to bring efficiency and innovation to my projects. Within the programming realm, I constantly explore new paths, seeking to enhance user interactions and functionalities.
+<div align="center"><br>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <a href="https://git.io/typing-svg">
       <img src="https://dcbadge.vercel.app/api/shield/481254887255048202?theme=discord-inverted&logoColor=pink" alt="Typing SVG" />
@@ -56,7 +57,7 @@
 <div align="center">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C793EB&center=true&vCenter=true&random=true&width=435&lines=GitHub Trophies." alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C793EB&center=true&vCenter=true&random=true&width=435&lines=GitHub+Trophies." alt="Typing SVG" />
     </a>
   </div>
   
